@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+#surati {
+    
+    vertical-align: middle;
+    background-image: url("../images/image.svg");
+    width: 1400px;
+    height: 674px;
+    margin: 0 auto;
+    margin-top: 150px;
+    border-radius: 33.185px;
+
+}
+#imgtxt {
+    color: red;
+    font-size: 44.452px;
+    margin: 0 auto;
+    color: #FFF;
+    width: 1258px;
+    padding-top: 39px;
+}
+#boxtwo {
+    margin-top: 115px;
+    width: 1137px;
+    padding: 40px 32px;
+    border-radius: 24px;
+    background-color: #EBF8FE;
+    margin-bottom: 72px;
+}
+#bethe {
+    color: #181D27;
+    font-size: 64px;
+    text-align: center;
+}
+#were {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    color: #535862;
+    font-size: 32px;
+}
+#boxone {
+    margin: 0 auto;
+    width: 1137px;
+}
+#emailtxt {
+    color: #717680;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background-color: #FFF;
+    margin-right: 24px;
+    width: 345px;
+}
+#boxbox {
+    text-align: center;
+}
+#subscribe {
+    padding: 12px 18px;
+    width: 119px;
+    background: #007CB8;
+    border-radius: 8px;
+    border: 2px solid #FFF;
+}
+#wecare {
+    color: #535862;
+    font-size: 14px;
+}
+#wediv {
+    width: 345px;
+    margin-left: 290px;
+}
+#boxthree {
+    width: 546px;
+    padding: 40px 32px;
+    border-radius: 24px;
+    background-color: #EBF8FE;
+    margin: 0 auto;
+}
+#formt {
+    color: #181D27;
+    font-size: 40px;
+}
+#labelone {
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 8px;
+    color: #1B003D;
+    font-size: 14px;
+}
+#name {
+    width: 482px;
+    padding: 8px 16px;
+    color: #1B003D;
+    border: 1px solid #380054;
+    border-radius: 8px;
+    margin-bottom: 24px;
+    background-color: #EBF8FE;
+}
+#labeltwo {
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 8px;
+    color: #1B003D;
+    font-size: 14px;
+}
+#email {
+    width: 482px;
+    padding: 8px 16px;
+    color: #1B003D;
+    border: 1px solid #380054;
+    border-radius: 8px;
+    margin-bottom: 24px;
+    background-color: #EBF8FE;
+}
+#would {
+    display: block;
+    font-size: 14px;
+    color: #1B003D;
+    margin-bottom: 7px;
+}
+#forp p {
+    display: inline-block;
+    margin-left: 11px;
+    font-size: 14px;
+    color: #6D5F8B;
+}
+#yesone, #yestwo, #yesthree {
+    display: block;
+}
+#wouldthree, #yesthree {
+    margin-bottom: 24px;
+}
+#wouldtwo, #yestwo {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#clist {
+    display: block;
+    font-size: 14px;
+    color: #1B003D;
+}
+#forc p {
+    display: inline-block;
+    font-size: 14px;
+    color:#6D5F8B;
+    margin-left: 11px;
+}
+#certi, #cori, #csami, #cotxi {
+    display: block;
+}
+body {
+    margin-bottom: 99px;
+}
+
+
